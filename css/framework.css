@@ -10,6 +10,9 @@
 .p-10 {
   padding: 10px;
 }
+.p-15 {
+  padding: 15px;
+}
 .p-20 {
   padding: 20px;
 }
@@ -46,3 +49,15 @@
   border-radius: 6px;
 }
 /* end border */
+/* start width + height */
+.w-full {
+  width: 100%;
+}
+/* end width + height */
+/* start components */
+.between-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* end components */
