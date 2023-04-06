@@ -16,6 +16,9 @@
 .space-between {
   justify-content: space-between;
 }
+.f-wrap {
+  flex-wrap: wrap;
+}
 .d-grid {
   display: grid;
 }
@@ -62,6 +65,9 @@
 .mt-20 {
   margin-top: 20px;
 }
+.mb-5 {
+  margin-bottom: 5px;
+}
 .mb-10 {
   margin-bottom: 10px;
 }
@@ -103,6 +109,9 @@
 .c-green {
   color: var(--green-color);
 }
+.c-red {
+  color: var(--red-color);
+}
 /* end color */
 /* start position */
 .p-relative {
@@ -113,11 +122,20 @@
 .txt-c {
   text-align: center;
 }
+.fs-13 {
+  font-size: 13px;
+}
 .fs-14 {
   font-size: 14px;
 }
 .fs-15 {
   font-size: 15px;
+}
+.fs-25 {
+  font-size: 25px;
+}
+.fw-bold {
+  font-weight: bold;
 }
 @media (max-width: 767px) {
   .txt-c-mobile {
