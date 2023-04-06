@@ -145,7 +145,7 @@ ul {
   margin-left: 15px;
 }
 .page h1 {
-  margin: 20px 20 40px;
+  margin: 20px 20px 40px;
 }
 .page h1::before,
 .page h1::after {
@@ -221,3 +221,17 @@ ul {
   }
 }
 /* end welcome widget */
+/* start quick draft */
+.quick-draft textarea {
+  resize: none;
+  min-height: 180px;
+}
+.quick-draft .save {
+  margin-left: auto;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.quick-draft .save:hover {
+  background-color: var(--blue-alt-color);
+}
+/* end quick draft */

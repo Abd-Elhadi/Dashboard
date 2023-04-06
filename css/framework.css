@@ -111,6 +111,9 @@
 .rad-10 {
   border-radius: 10px;
 }
+.b-none {
+  border: none;
+}
 /* end border */
 /* start width + height */
 .w-full {
@@ -125,5 +128,9 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+.btn-shape {
+  padding: 4px 10px;
+  border-radius: 6px;
 }
 /* end components */
