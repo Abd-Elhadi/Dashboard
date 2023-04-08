@@ -164,7 +164,7 @@ ul {
   width: 40px;
 }
 .wrapper {
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
@@ -486,6 +486,46 @@ ul {
   background-color: #0a66c2;
 }
 /* end socile media */
+/* start projects */
+.projects .responsive-table {
+  overflow-x: auto;
+}
+.projects table {
+  min-width: 1000px;
+  border-spacing: 0;
+}
+.projects thead td {
+  background-color: #eee;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.projects table td {
+  padding: 15px;
+}
+.projects tbody td {
+  border-bottom: 1px solid #EEEE;
+  border-left: 1px solid #EEEE;
+}
+.projects table tbody tr td:last-child {
+  border-right: 1px solid #EEE;
+}
+.projects tbody tr:hover td {
+  background-color: #FAF7F7;
+}
+.projects table img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  padding: 2px;
+  background-color: white;
+}
+.projects table img:not(:first-child) {
+  margin-left: -20px;
+}
+.projects table .label {
+  font-size: 13px;
+}
+/* end projects */
 /* start animation */
 @keyframes change-color {
   from {
