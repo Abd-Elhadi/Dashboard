@@ -547,6 +547,37 @@ ul {
   display: inline-flex;
   width: calc(100% - 80px);
 }
+.settings-page .sec-box {
+  padding-bottom: 15px;
+}
+.settings-page .sec-box:not(:last-of-type) {
+  border-bottom: 1px solid #eee;
+}
+.settings-page .sec-box .button {
+  transition: 0.3s;
+}
+.settings-page .sec-box .button:hover {
+  background-color: var(--blue-alt-color);
+}
+.settings-page .social-boxes i {
+  width: 40px;
+  height: 40px;
+  background-color: #F6F6F6;
+  border: 1px solid #DDD;
+  border-right: none;
+  border-radius: 6px 0 0 6px;
+  transition: 0.3s;
+}
+.settings-page .social-boxes input {
+  height: 40px;
+  background-color: #F6F6F6;
+  border: 1px solid #DDD;
+  padding-left: 10px;
+  border-radius: 0 6px 6px 0;
+}
+.settings-page .social-boxes > div:focus-within i {
+  color: black;
+}
 .toggle-checkbox {
   -webkit-appearance: none;
   appearance: none;
@@ -585,6 +616,11 @@ ul {
   content: '\f00c';
   left: 50px;
   color: var(--blue-color);
+}
+.settings-page :disabled {
+  cursor: no-drop;
+  background-color: #F0F4F8;
+  color: #BBB;
 }
 /* end settings */
 /* start animation */
