@@ -98,11 +98,11 @@
 .mr-15 {
   margin-right: 15px;
 }
-.mb-5 {
-  margin-bottom: 5px;
-}
 .mb-0 {
   margin-bottom: 0;
+}
+.mb-5 {
+  margin-bottom: 5px;
 }
 .mb-10 {
   margin-bottom: 10px;
@@ -217,6 +217,12 @@
 }
 .h-full {
   height: 100%;
+}
+.w-100 {
+  width: 100px;
+}
+.h-100 {
+  height: 100px;
 }
 /* end width + height */
 /* start components */
