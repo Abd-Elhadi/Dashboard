@@ -1062,7 +1062,7 @@ transform: scale(1);
   height: 40px;
   margin-right: 10px;
 }
-.files-page .files-stats .icon .size {
+.files-page .files-stats .size {
   margin-left: auto;
 }
 .files-page .files-stats .blue {
