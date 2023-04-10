@@ -29,26 +29,26 @@ Users should be able to:
 
 #### Dashboard 
 ![Landing Screen](imgs/screenshots/dashboard-1.png?raw=true")
-![Landing Screen](screenshots/dashboard-2.png?raw=true")
-![Landing Screen](screenshots/dashboard-3.png?raw=true")
+![Landing Screen](imgs/screenshots/dashboard-2.png?raw=true")
+![Landing Screen](imgs/screenshots/dashboard-3.png?raw=true")
 
 #### Settings Page
-![Settings Page](screenshots/settings.png?raw=true")
+![Settings Page](imgs/screenshots/settings.png?raw=true")
 
 #### Project Page 
-![Project Page](screenshots/projects.png?raw=true")
+![Project Page](imgs/screenshots/projects.png?raw=true")
 
 #### Courses Page 
-![Courses Page](screenshots/courses.png?raw=true")
+![Courses Page](imgs/screenshots/courses.png?raw=true")
 
 #### Friends Page 
-![Friends Page](screenshots/friends.png?raw=true")
+![Friends Page](imgs/screenshots/friends.png?raw=true")
 
 #### Files Page 
-![Files Page](screenshots/files.png?raw=true")
+![Files Page](imgs/screenshots/files.png?raw=true")
 
 #### Plans Page 
-![Plans Page](screenshots/plans.png?raw=true")
+![Plans Page](imgs/screenshots/plans.png?raw=true")
 
 ### Links
 - Source Code URL: [here](https://github.com/Abd-Elhadi/Dashboard)
