@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshots
 
-#### Dashboard 
+#### Dashboard Page
 ![Landing Screen](imgs/screenshots/dashboard-1.png?raw=true")
 ![Landing Screen](imgs/screenshots/dashboard-2.png?raw=true")
 ![Landing Screen](imgs/screenshots/dashboard-3.png?raw=true")
